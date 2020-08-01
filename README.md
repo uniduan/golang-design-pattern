@@ -1,1 +1,1 @@
-# golang-design-pattern
+# GO语言设计模式实践
